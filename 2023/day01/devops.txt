@@ -6,3 +6,4 @@ formal defination   :   "DevOps is the union of people, process, and products to
 
 The main goal of DEVOPS is to shorten cycle time. Start with the release pipeline. How long does it take to deploy a change of one line of code or configuration.
 
+#task1complete
